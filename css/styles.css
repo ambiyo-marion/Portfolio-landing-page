@@ -4,3 +4,8 @@
     margin-right: auto;
     widows: 50%;
 }
+    h1 {
+        position: absolute;
+        left: 100px;
+        color: crimson;
+    }
