@@ -12,6 +12,8 @@
     h2 {
         position: relative;
         left: 200px;
+        font-style:italic;
+        color: green;
     }
 
     .contact{
