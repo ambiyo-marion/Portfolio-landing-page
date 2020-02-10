@@ -25,3 +25,6 @@
         width: 300px;
         float: left;
     }
+    body{
+        background-color: thistle;
+    }
