@@ -3,7 +3,8 @@
 #### By ** Ambiyo Marion**
 ## Description
 The Portfolio-landing-page web page describes the list of programming projects I have done so far.The webpage acts as a portfolio to showcase my work.It contains the about me section that gives details on my education background ,my skills and interests and my reason to take the programming course.
-##Setup /Installation Requirements
+## Setup /Installation Requirements 
+to access the webpage click [here](https://ambiyo-marion.github.io/Portfolio-landing-page/)
 * Download and install Vscode,chrome and git
 * Open Vs code
 * Write your html and css code
